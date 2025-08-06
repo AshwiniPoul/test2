@@ -3,7 +3,7 @@
     <fullName>acc_Status__c</fullName>
     <inlineHelpText>ttttttt</inlineHelpText>
     <label>acc.Status</label>
-    <required>false</required>
+    <required>true</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
     <valueSet>
