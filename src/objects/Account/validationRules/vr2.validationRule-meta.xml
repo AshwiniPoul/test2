@@ -3,5 +3,5 @@
     <fullName>vr2</fullName>
     <active>true</active>
     <errorConditionFormula>true</errorConditionFormula>
-    <errorMessage>true vr text</errorMessage>
+    <errorMessage>true vr text chnaged</errorMessage>
 </ValidationRule>
