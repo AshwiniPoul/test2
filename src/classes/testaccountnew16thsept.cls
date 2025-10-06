@@ -3,7 +3,7 @@ public class testaccountnew16thsept {
  @isTest
     static void test_afterInsert_positive() {
         Account newAcc = new Account(Name='TestAccount', Industry='Agriculture');
-        //neewwwjfjvdfnvdsmfns
+        //neewwwjfjvdfnvdsmfns   6thg octttt
         Test.startTest();
             insert newAcc;
         Test.stopTest();
