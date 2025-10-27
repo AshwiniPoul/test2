@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>acc_Status__c</fullName>
-    <inlineHelpText>ttttttt</inlineHelpText>
+    <inlineHelpText>ttttttteddj</inlineHelpText>
     <label>acc.Status</label>
-    <required>true</required>
+    <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
     <valueSet>
@@ -18,8 +18,12 @@
             <value>
                 <fullName>Closed</fullName>
                 <default>false</default>
-                <isActive>false</isActive>
                 <label>Closed</label>
+            </value>
+            <value>
+                <fullName>Pending</fullName>
+                <default>false</default>
+                <label>Pending</label>
             </value>
         </valueSetDefinition>
     </valueSet>
