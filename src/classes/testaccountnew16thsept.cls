@@ -5,7 +5,7 @@ public class testaccountnew16thsept {
         Account newAcc = new Account(Name='TestAccount', Industry='Agriculture');
         //neewwwjfjvdfnvdsmfns   6thg octtffgtt
         Test.startTest();
-            insert newAcc;
+          hh  insert newAcc;
         Test.stopTest();
         
         List<Opportunity> insertedOpp = [Select Id, Account.Name, CloseDate, Amount 
